@@ -1,0 +1,23 @@
+{
+  "name": "infobubble-modern",
+  "version": "1.0.0",
+  "author": "jesusrpeinado@gmail.com",
+  "description": "",
+  "main": "infobubble-modern.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesusr/infobubble-modern.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jesusr/infobubble-modern/issues"
+  },
+  "homepage": "https://github.com/jesusr/infobubble-modern#readme",
+  "devDependencies": {
+    "eslint": "^6.1.0",
+    "eslint-plugin-react": "^7.14.3"
+  }
+}
