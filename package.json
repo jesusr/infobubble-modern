@@ -1,8 +1,8 @@
 {
   "name": "infobubble-modern",
   "version": "1.0.0",
-  "author": "jesusrpeinado@gmail.com",
-  "description": "",
+  "author": "Jesús R Peinado jesusrpeinado@gmail.com",
+  "description": "Infobubble replacement module without building procces",
   "main": "infobubble-modern.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/jesusr/infobubble-modern#readme",
   "devDependencies": {
-    "eslint": "^6.1.0",
-    "eslint-plugin-react": "^7.14.3"
+    "eslint": "^6.1.0"
   }
 }
