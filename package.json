@@ -1,6 +1,6 @@
 {
   "name": "infobubble-modern",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Jesús R Peinado jesusrpeinado@gmail.com",
   "description": "Infobubble replacement module without building procces",
   "main": "infobubble-modern.js",
